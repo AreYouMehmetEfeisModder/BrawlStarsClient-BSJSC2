@@ -36,6 +36,7 @@ Here are some recommended free hosting services:
 - [Riot Nodes](https://dash.riotnodes.co.uk/)
 
 
-## Apologies
+## Errors
 I apologize for any mistakes or shortcomings in this project. Please feel free to contribute and make improvements.
+Maybe the reason for the errors is that it is BETA and already nacl keys are now COMPLETELY encrypted, anyway maybe one day we can find the nacl key again
 
