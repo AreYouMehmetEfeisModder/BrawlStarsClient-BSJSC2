@@ -28,7 +28,7 @@ The BSJSC2 project consists of a main server and client server that function as 
 For side servers, you can obtain your bot's token and use it on any hosting service you prefer.
 
 In Detail : Instead of always changing the number of servers do as in [this link](https://raw.githubusercontent.com/AreYouMehmetEfeisModder/bsjssay-degeri/main/x.txt) and paste your raw link in the lines in the code 
-Now you need to find a server, you can find it from [this link](https://panel.rasbyte.net).
+Now you need to find a server, you can find it from [this link](https://disboard.org/servers/tag/bot-hosting).
 Remember, create only one main server, the more the side servers, the faster it will be, paste the total number of messages from the total number of messages to the raw server with showc2 and THAT'S IT
 
 
